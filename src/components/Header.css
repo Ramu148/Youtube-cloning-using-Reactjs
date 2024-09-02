@@ -1,0 +1,29 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 20px;
+    background-color: #ff0000;
+    color: white;
+  }
+  
+  .header__search {
+    flex: 1;
+    display: flex;
+    justify-content: center;
+  }
+  
+  .header__search input {
+    width: 50%;
+    padding: 5px;
+  }
+  
+  .header__icons button {
+    background: none;
+    border: none;
+    color: white;
+    font-size: 20px;
+    margin-left: 15px;
+    cursor: pointer;
+  }
+  
