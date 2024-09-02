@@ -2,6 +2,7 @@
 import React from 'react';
 import Header from './components/Header';
 import Sidebar from './components/Sidebar';
+import Content from './components/Content';
 
 import './App.css';
 
@@ -11,6 +12,7 @@ const App = () => {
       <Header />
       <div className="app__content">
         <Sidebar />
+        <Content />
        </div>
     </div>
   );

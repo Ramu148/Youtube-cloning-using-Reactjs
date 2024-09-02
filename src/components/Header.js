@@ -18,8 +18,11 @@ const Header = () => {
       <div className="header__icons">
         <button><FaBell /></button>
         <button><RiAccountPinCircleFill /></button>
+       
       </div>
+      
     </header>
+    
   );
 };
 
