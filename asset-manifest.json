@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Youtube-cloning-using-Reactjs/static/css/main.18e3dc04.css",
+    "main.js": "/Youtube-cloning-using-Reactjs/static/js/main.e4cc494c.js",
+    "static/js/453.1b6cbde4.chunk.js": "/Youtube-cloning-using-Reactjs/static/js/453.1b6cbde4.chunk.js",
+    "static/media/img8.png": "/Youtube-cloning-using-Reactjs/static/media/img8.e46355bf3c25e05e5548.png",
+    "static/media/img7.png": "/Youtube-cloning-using-Reactjs/static/media/img7.1e666581f12f5510b5e2.png",
+    "static/media/img5.png": "/Youtube-cloning-using-Reactjs/static/media/img5.71b5a39120dd1d47f3c3.png",
+    "static/media/img2.png": "/Youtube-cloning-using-Reactjs/static/media/img2.bea70a9f637a7d1a758b.png",
+    "static/media/img1.png": "/Youtube-cloning-using-Reactjs/static/media/img1.3432f99ca49dff134328.png",
+    "static/media/img6.png": "/Youtube-cloning-using-Reactjs/static/media/img6.e74d1163a59d7aa6b1aa.png",
+    "static/media/img4.png": "/Youtube-cloning-using-Reactjs/static/media/img4.33f29027710188cd376c.png",
+    "index.html": "/Youtube-cloning-using-Reactjs/index.html",
+    "main.18e3dc04.css.map": "/Youtube-cloning-using-Reactjs/static/css/main.18e3dc04.css.map",
+    "main.e4cc494c.js.map": "/Youtube-cloning-using-Reactjs/static/js/main.e4cc494c.js.map",
+    "453.1b6cbde4.chunk.js.map": "/Youtube-cloning-using-Reactjs/static/js/453.1b6cbde4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.18e3dc04.css",
+    "static/js/main.e4cc494c.js"
+  ]
+}
